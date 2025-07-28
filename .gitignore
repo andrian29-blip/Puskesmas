@@ -1,0 +1,5 @@
+*.sql
+*.env
+/vendor/
+/node_modules/
+/config.php
